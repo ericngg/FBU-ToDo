@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='x' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='https://github.com/ericngg/FBU-ToDo/blob/main/demo.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with [screentogif](https://www.screentogif.com/).
 
